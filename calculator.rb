@@ -1,2 +1,2 @@
 # Add your variables here
-first_number == num1
+first_number = Integer or Float
